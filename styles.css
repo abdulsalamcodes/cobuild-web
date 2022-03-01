@@ -2,3 +2,8 @@
     opacity: .4;
     cursor: default;
 }
+
+.image {
+    max-height: 75vh;
+    object-fit: contain;
+}
